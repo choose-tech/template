@@ -1,0 +1,7 @@
+node_modules
+.astro
+.vercel
+dist
+env.d.ts
+content/github
+content/npm

@@ -1,0 +1,13 @@
+{
+  "logo": "../../assets/content/libraries/astro.svg",
+  "name": "Astro",
+  "url": "https://astro.build/",
+  "repo": {
+    "owner": "withastro",
+    "name": "astro"
+  },
+  "packages": ["astro"],
+  "equivalents": [],
+  "implies": [],
+  "categories": ["meta-framework"]
+}
