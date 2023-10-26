@@ -11,7 +11,8 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@choose-tech/astro": "^0.0.5",
+    "@astrojs/netlify": "^3.0.3",
+    "@choose-tech/astro": "^0.0.6",
     "astro": "^3.3.4"
   }
 }
