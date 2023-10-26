@@ -11,7 +11,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@choose-tech/astro": "^0.0.4",
+    "@choose-tech/astro": "^0.0.5",
     "astro": "^3.3.4"
   }
 }
