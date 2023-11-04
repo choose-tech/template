@@ -1,7 +1,7 @@
 import { defineConfig } from "@choose-tech/astro/config";
 
 export default defineConfig({
-  base: "/template",
+  name: "template",
   title: "Template",
   description: "",
   color: "#3b82f6",

@@ -9,11 +9,14 @@ dependencies:
     specifier: ^3.0.4
     version: 3.0.4(astro@3.4.3)
   '@choose-tech/astro':
-    specifier: ^0.0.9
-    version: 0.0.9(astro@3.4.3)
+    specifier: ^0.0.14
+    version: 0.0.14(astro@3.4.3)
   astro:
     specifier: ^3.4.3
     version: 3.4.3
+  sharp:
+    specifier: ^0.32.6
+    version: 0.32.6
 
 packages:
 
@@ -341,10 +344,10 @@ packages:
       to-fast-properties: 2.0.0
     dev: false
 
-  /@choose-tech/astro@0.0.9(astro@3.4.3):
-    resolution: {integrity: sha512-kKgvOEkoJR7MZpu0j8b2ZxDbox/3Zhc3tXvq/TsBcyaKHUVJo8/9TseyfwKSTOGSCmcvGa8VPWtC4TLnZxzj1Q==}
+  /@choose-tech/astro@0.0.14(astro@3.4.3):
+    resolution: {integrity: sha512-5zLqVxHO5lo5xVSNcSPogOYJYISWdsyqOMRcMFya8XaBGwe9SZISxtRzsOXjkaDeNMX5ej0E5CxaE8LKJpxWfQ==}
     peerDependencies:
-      astro: ^3.3.4
+      astro: ^3.4.3
     dependencies:
       '@astrojs/netlify': 3.0.4(astro@3.4.3)
       '@astrojs/tailwind': 5.0.2(astro@3.4.3)(tailwindcss@3.3.5)
